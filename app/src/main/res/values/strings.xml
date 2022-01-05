@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySignupLoginApp</string>
+    <string name="login_note">Login user</string>
+</resources>
